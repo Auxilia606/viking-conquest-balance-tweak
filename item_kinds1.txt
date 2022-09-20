@@ -579,19 +579,19 @@ itemsfile version 3
  0
 0
 
- itm_arrows Arrows Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  98309 2952790016 200 4398046511112 1.000000 110 0 0 0 0 0 0 0 95 40 1 0
+ itm_arrows Arrows Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  98309 2952790016 200 4398046511112 1.000000 110 0 0 0 0 0 0 0 95 200 1 0
  0
 0
 
- itm_khergit_arrows Piercing_Arrows Piercing_Arrows 3  arrow2 0  flying_arrow2 2305843009213693952  quiver2 3458764513820540928  5 2952790016 910 4398046511112 1.000000 10 0 0 0 0 0 0 0 95 36 6 0
+ itm_khergit_arrows Piercing_Arrows Piercing_Arrows 3  arrow2 0  flying_arrow2 2305843009213693952  quiver2 3458764513820540928  5 2952790016 910 4398046511112 1.000000 10 0 0 0 0 0 0 0 95 200 6 0
  0
 0
 
- itm_barbed_arrows Barbed_Arrows Barbed_Arrows 3  barbed_arrow 0  flying_barbed_arrow 2305843009213693952  quiver1 3458764513820540928  98309 2952790016 400 4398046511112 1.000000 60 0 0 0 0 0 0 0 95 36 3 0
+ itm_barbed_arrows Barbed_Arrows Barbed_Arrows 3  barbed_arrow 0  flying_barbed_arrow 2305843009213693952  quiver1 3458764513820540928  98309 2952790016 400 4398046511112 1.000000 60 0 0 0 0 0 0 0 95 200 3 0
  0
 0
 
- itm_bodkin_arrows Bodkin_Arrows Bodkin_Arrows 3  bodkin_arrow 0  flying_bodkin_arrow 2305843009213693952  quiver4 3458764513820540928  98309 2952790016 750 4398046511112 1.000000 20 0 0 0 0 0 0 0 95 40 4 0
+ itm_bodkin_arrows Bodkin_Arrows Bodkin_Arrows 3  bodkin_arrow 0  flying_bodkin_arrow 2305843009213693952  quiver4 3458764513820540928  98309 2952790016 750 4398046511112 1.000000 20 0 0 0 0 0 0 0 95 200 4 0
  0
 0
 
@@ -623,7 +623,7 @@ itemsfile version 3
  0
 0
 
- itm_leather_gloves Leather_Gloves Leather_Gloves 1  leather_gloves_L 0  65551 0 400 6291584 0.250000 50 0 2 0 0 0 0 0 0 0 0 0
+ itm_leather_gloves Leather_Gloves Leather_Gloves 1  leather_gloves_L 0  65551 0 400 106954880 0.250000 50 0 2 0 0 0 0 0 0 0 0 0
  0
 0
 
@@ -2636,7 +2636,7 @@ itemsfile version 3
  29 30 31 32 33 34 36
 0
 
- itm_orm_byrnie Orm's_Lorica Orm's_Lorica 1  thor_armor 0  553648141 0 26440 167772196 29.000000 10 13 60 26 14 0 0 0 0 0 0 0
+ itm_orm_byrnie Orm's_Lorica Orm's_Lorica 1  thor_armor 0  553648141 0 26440 704643108 29.000000 10 13 60 26 14 0 0 0 0 0 0 0
  0
 0
 
@@ -3518,7 +3518,7 @@ itemsfile version 3
  29 30 31 32 33 34 35 36
 0
 
- itm_elf_helmet Elf's_Helm Elf's_Helm 1  Broa 0  1073745932 0 9120 167772198 3.000000 10 53 0 0 5 0 0 0 0 0 0 0
+ itm_elf_helmet Elf's_Helm Elf's_Helm 1  Broa 0  1073745932 0 9120 704643110 3.000000 10 53 3 0 5 0 0 0 0 0 0 0
  0
 0
 
@@ -4839,7 +4839,7 @@ itemsfile version 3
  35
 0
 
- itm_strong_bow Dark_Hunter Dark_Hunter 2  LongBow200 0  LongBow200_carry 3458764513820540928  283115528 5905584128 4000 524298 1.250000 100 0 0 95 5 0 55 63 0 0 31 0
+ itm_strong_bow Dark_Hunter Dark_Hunter 2  LongBow200 0  LongBow200_carry 3458764513820540928  283115528 5905584128 4000 524298 1.250000 100 0 0 95 8 0 80 75 0 0 35 0
  0
 0
 
